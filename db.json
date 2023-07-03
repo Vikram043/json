@@ -1,0 +1,18 @@
+{
+    "Admin": [
+      {
+        "email":"masai@gmail.com",
+        "pass":"vikram"
+      }
+    ],
+    "users": [
+      {
+        "id": 2.1,
+        "name": "Vikram",
+        "age": "12",
+        "place": "mm",
+        "batch_name": "WEB-13",
+        "profession": "FSD"
+      }
+    ]
+  }
