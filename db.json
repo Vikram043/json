@@ -1,18 +1,69 @@
 {
-    "Admin": [
-      {
-        "email":"masai@gmail.com",
-        "pass":"vikram"
-      }
-    ],
-    "users": [
-      {
-        "id": 2.1,
-        "name": "Vikram",
-        "age": "12",
-        "place": "mm",
-        "batch_name": "WEB-13",
-        "profession": "FSD"
-      }
-    ]
-  }
+  "posts": [
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "Introduction to Angular",
+      "body": "Angular is a powerful front-end framework..."
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "title": "Getting Started with React",
+      "body": "React is a popular JavaScript library..."
+    },
+    {
+      "id": 3,
+      "userId": 2,
+      "title": "Node.js and Express Basics",
+      "body": "Node.js is a runtime environment..."
+    },
+    {
+      "id": 4,
+      "userId": 2,
+      "title": "Deep Dive into TypeScript",
+      "body": "TypeScript is a statically typed superset..."
+    },
+    {
+      "id": 5,
+      "userId": 3,
+      "title": "Python Fundamentals",
+      "body": "Python is a versatile programming language..."
+    },
+    {
+      "id": 6,
+      "userId": 3,
+      "title": "Exploring Django Framework",
+      "body": "Django is a high-level Python web framework..."
+    },
+    {
+      "id": 7,
+      "userId": 4,
+      "title": "Responsive Web Design",
+      "body": "Creating web designs that adapt to different devices..."
+    },
+    {
+      "id": 8,
+      "userId": 4,
+      "title": "State Management in React with Redux",
+      "body": "Managing application state using Redux..."
+    },
+    {
+      "id": 9,
+      "userId": 5,
+      "title": "RESTful API Design Principles",
+      "body": "Designing APIs that follow REST principles..."
+    },
+    {
+      "id": 10,
+      "userId": 5,
+      "title": "Data Structures and Algorithms Basics",
+      "body": "Understanding common data structures and algorithms..."
+    },
+    {
+      "title": "Learn Python",
+      "body": "Python is best",
+      "id": 11
+    }
+  ]
+}
